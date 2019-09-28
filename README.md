@@ -8,9 +8,11 @@ Put these files in your scratch folder and execute the command from your ns-3 di
   
 All the files produces .xml files which can be further used with NetAnim for visualisation. The xml files are provided in the NetAnim Folder which can directly be used for visualisation.
 
-v2i is for vehicle to interface. It requires the file "x-topo.txt".Put it in any directory and then add the location in the 92 of the v2i file.
 
+v2i is for vehicle to interface. It requires the file "x-topo.txt".Put it in any directory and then add the location in the 92 of the v2i file.
 v2v is for the vehicle to vehicle interface.
+
+
 
 Both of the above files' original code gave the following error which has been taken care of:
 
