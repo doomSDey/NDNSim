@@ -1,6 +1,6 @@
 # NDNSim
 
-Put these files in your scratch folder and execute the command from your ns-3 directory "./waf --run scratch/ <filename> "
+Put these files in your scratch folder and execute the command from your ns-3 directory "./waf --run scratch/filename"
   
   All the files provided in the "examples/turtorial" is IP based.There are examples of NDN based programs ut some of them has some errors. So I made the modification and here are all the NDN based debugged working programs.
   
